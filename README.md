@@ -7,7 +7,8 @@ Q4: no they are not
 Q5: this is a merge
 Q6: the local branches are updated to the origin. 
 Q7: this did not delete the local branch on my computer.
-Q8: ```
+Q8: 
+```
 *   commit 8c5ed95ef5726cc4bd5bc775991edc3ca5a4fc7e (HEAD -> main, origin/main, origin/HEAD)
 |\  Merge: 4be3a02 cd5bdaf
 | | Author: apenny99 <apenny23@kentdenver.org>
